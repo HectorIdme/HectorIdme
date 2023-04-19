@@ -1,6 +1,8 @@
+<p align="center"><img width="100%" alt="banner of space" src="space.png" /></p>
+
 ### Hey there! :wave:
-- Currently, I'm working on my own projects. 💻
-- I'm interested in different areas of computing, but right now, I'm focused on web development. 🌐
+
+I am a Computer Science student with a strong passion for technology, research and space 🚀. I am currently honing my skills in web development 🌐 with a focus on frontend and .NET software application development. I am constantly looking for opportunities to contribute and learn in the field of computing. I believe in giving my best in every project, regardless of the challenges that may arise. I occasionally get involved in projects that use different types of technologies.
 
  ---
 
