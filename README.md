@@ -20,6 +20,5 @@ I am a Computer Science student with a strong passion for technology, research a
  ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HectorIdme&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HectorIdme&theme=gotham&hide_border=false)
 
